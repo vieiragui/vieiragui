@@ -1,18 +1,53 @@
-# 💫 About Me:
-# Olá, me chamo Guilherme Vieira ! <br>## Bem vindo ao meu perfil GitHub 👋<br><br>🔭 Atualmente estou trabalhando em algumas frentes:<br>## Desenvolvimento de uma plataforma para cadastro de usuários no TJRJ;<br>## Site de gerenciamento de vendas. Contendo todo o fluxo do funil de vendas, gerando gráficos e controlando equipes;<br><br>🌱 Atualmente estou aprendendo e me aprofundando:<br>## Angular<br>## React Native
 
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou Guilherme Vieira</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vieiragui&color=yellow" alt="Profile views" /> </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/guilherme-vieira-825487113/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@devresponde7894) 
+- 🔥 Desenvolvedor .NET Pleno e Instrutor para ajudar pessoas a iniciarem e se desenvolverem na programação 
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vieiragui&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vieiragui&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vieiragui&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🔭 Estou trabalhando atualmente na [Spassu](https://www.spassu.com.br/) e [CRM Consórcio](https://crmdeconsorcio.com/)
 
----
-[![](https://visitcount.itsvg.in/api?id=vieiragui&icon=0&color=0)](https://visitcount.itsvg.in)
+- ▶️ Posto videos, não regularmente, no meu canal [youtube.com/devresponde](https://www.youtube.com/@devresponde7894)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 💬 Pergunte me sobre **Angular, .NET Core, SQL, C#**
+
+## 🛠 &nbsp;Tech Stack
+![React Native](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;
+![.NET Core](https://img.shields.io/badge/-.NETCore-05122A?style=flat&logo=dotnet)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)&nbsp;
+
+<!--
+<br><br>
+## 🛠 &nbsp;Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+<br>
+
+## ⚙️ &nbsp;GitHub Analytics
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=vieiragui&show_icons=true&theme=vision-friendly-dark" alt="vieiragui"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieiragui&layout=compact&theme=vision-friendly-dark" alt=vieiragui"/>
+</p>
+-->
+
+## Contato
+
+<p align="left" style="background:yellow">
+<a href="https://www.linkedin.com/in/guilherme-vieira-825487113/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-guilhermevieira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.youtube.com/@devresponde7894" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-devresponde-05122A?style=flat&logo=youtube" alt="youtube"/>
+</a>
+</p>
