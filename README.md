@@ -10,7 +10,7 @@
 
 - 💬 Pergunte me sobre **Angular, .NET Core, SQL, C#**
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tecnologias
 ![React Native](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;
 ![.NET Core](https://img.shields.io/badge/-.NETCore-05122A?style=flat&logo=dotnet)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
