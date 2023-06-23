@@ -2,9 +2,9 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou Guilherme Vieira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vieiragui&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor .NET Pleno e Instrutor para ajudar pessoas a iniciarem e se desenvolverem na programação 
+- 🔥 Desenvolvedor .NET Senior e Instrutor para ajudar pessoas a iniciarem e se desenvolverem na programação 
 
-- 🔭 Estou trabalhando atualmente na [Spassu](https://www.spassu.com.br/) e [CRM Consórcio](https://crmdeconsorcio.com/) e [Allianz](https://www.allianz.com.br/)
+- 🔭 Estou trabalhando atualmente na [Spassu](https://www.spassu.com.br/) e [CRM Consórcio](https://crmdeconsorcio.com/)
 
 - ▶️ Posto videos, não regularmente, no meu canal [youtube.com/devresponde](https://www.youtube.com/@devresponde7894)
 
