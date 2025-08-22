@@ -11,7 +11,6 @@
 - 💬 Pergunte me sobre **Angular, .NET Core, SQL, C#**
 
 ## 🛠 &nbsp;Tecnologias
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![.NET Core](https://img.shields.io/badge/-.NETCore-05122A?style=flat&logo=dotnet)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
