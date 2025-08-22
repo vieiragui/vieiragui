@@ -4,7 +4,7 @@
 
 - 🔥 Desenvolvedor .NET Senior e Instrutor para ajudar pessoas a iniciarem e se desenvolverem na programação 
 
-- 🔭 Estou trabalhando atualmente na [Spassu](https://www.spassu.com.br/) e [CRM Consórcio](https://crmdeconsorcio.com/)
+- 🔭 Estou trabalhando atualmente na [Basis](https://www.basis.com.br/) e [Team Six](https://teamsix.tech/)
 
 - ▶️ Posto videos, não regularmente, no meu canal [youtube.com/devresponde](https://www.youtube.com/@devresponde7894)
 
