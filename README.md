@@ -6,7 +6,7 @@
 
 - 🔭 Estou trabalhando atualmente na [Basis](https://www.basis.com.br/) e [Team Six](https://teamsix.tech/)
 
-- ▶️ Posto videos, não regularmente, no meu canal [youtube.com/devresponde](https://www.youtube.com/@devresponde7894)
+- ▶️ Posto videos, não regularmente, no meu canal [youtube.com/devresponde](https://www.youtube.com/@devresponde)
 
 - 💬 Pergunte me sobre **Angular, .NET Core, SQL, C#**
 
